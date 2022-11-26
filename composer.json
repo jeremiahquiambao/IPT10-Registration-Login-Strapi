@@ -1,0 +1,16 @@
+{
+    "name": "user/ipt10-registration-login-strapi",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jeremiahquiambao"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    }
+}
